@@ -1,0 +1,5 @@
+1. Using traditional High Poker Hand Ranks
+2. Evaluated winner based on Rank (Royal Flush is highest, High Card is lowest)
+3. Evaluated cards based on Rank (Deuce is lowest, Ace is highest)
+4. All players should have 5 cards
+5. No wild cards or jokers
